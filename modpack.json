@@ -79,13 +79,21 @@
       "type": "MOD"
     },
     {
-      "name": "sodium-fabric-0.9.3+mc26.3.jar",
+      "name": "sodium-fabric-0.9.2+mc26.3.jar",
       "path": "mods/",
-      "size": 1914989,
-      "sha1": "818009279d57d8c8c4fa814e685e7c9122f7677f",
-      "url": "https://raw.githubusercontent.com/Toxixxd/PapusSMP-Modpack/main/mods/sodium-fabric-0.9.3+mc26.3.jar",
+      "size": 1908068,
+      "sha1": "9acfe851e36f4fb27d7c5baa224e8bd4e0334283",
+      "url": "https://raw.githubusercontent.com/Toxixxd/PapusSMP-Modpack/main/mods/sodium-fabric-0.9.2%2Bmc26.3.jar",
       "type": "MOD"
     },
+    {
+      "name": "cloth-config-fabric-26.3.159.jar",
+      "path": "mods/",
+      "size": 1135009,
+      "sha1": "9a5cce069380a2047250831dcb19f4ef1b15872d",
+      "url": "https://raw.githubusercontent.com/Toxixxd/PapusSMP-Modpack/main/mods/cloth-config-fabric-26.3.159.jar",
+      "type": "MOD"
+    }
     {
       "name": "visuality-0.7.15+26.3.jar",
       "path": "mods/",
